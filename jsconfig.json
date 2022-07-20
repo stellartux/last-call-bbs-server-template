@@ -1,0 +1,6 @@
+{
+  "compilerOptions": {
+    "checkJS": true,
+    "lib": ["ES5"]
+  }
+}
