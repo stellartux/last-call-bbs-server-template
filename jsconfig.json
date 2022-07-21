@@ -1,6 +1,7 @@
 {
   "compilerOptions": {
     "checkJS": true,
-    "lib": ["ES5"]
+    "lib": ["ES5"],
   }
+  "include": ["index.d.ts.", "server.js"]
 }
